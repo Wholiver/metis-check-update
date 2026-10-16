@@ -1,1 +1,6 @@
-{"version":"2.0.1","packageName":"@wholiver_hu/metis","publishedAt":"2026-10-15T16:00:00.000Z"}
+{
+  "version": "2.0.2",
+  "title": "Metis 2.0.2 发布",
+  "notes": "### Metis v2.0.2 发布更新\n\n- 修复 Windows 大型仓库 Git diff 解析超时保护与进程卡死问题（Fixes #45）\n- 修复 Windows 跨平台大小写路径下的会话列表重复展示问题（Fixes #45）\n- 改进模型选择器：下拉列表展开展示各厂商模型、长模型名省略加宽与完整悬浮提示、自定义模型置顶且支持直接删除（Fixes #47）\n- 强化 Server 模式下远程工作区支持：支持远程文件选择、代码树与远程 Git 差异审查（Fixes #44）",
+  "pub_date": "2026-10-16T05:25:44.403Z"
+}
